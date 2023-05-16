@@ -1,0 +1,8 @@
+input_files:
+    SMRT1:
+      hom_sus:
+        reads:
+          - "/nfs/nas12.ethz.ch/fs1201/green_groups_tg_public/data/ecoli/isoseq_2023/SMRT1/bam/bc1015--bc1015/m64141e_230316_162428.bc1015--bc1015.bam"
+      hom_res:
+        reads:
+          - "/nfs/nas12.ethz.ch/fs1201/green_groups_tg_public/data/ecoli/isoseq_2023/SMRT1/bam/bc1016--bc1016/m64141e_230316_162428.bc1016--bc1016.bam"
